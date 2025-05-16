@@ -1,0 +1,5 @@
+# MounRiver IDE config
+.mrs/
+
+# build output
+obj/
