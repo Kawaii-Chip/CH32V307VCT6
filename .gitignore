@@ -1,5 +1,8 @@
 # MounRiver IDE config
 .mrs/
 
+# VSCode config
+.vscode/
+
 # build output
 obj/
