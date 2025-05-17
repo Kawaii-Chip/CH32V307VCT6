@@ -1,2 +1,3 @@
-# CH32-Test
-Personal test project
+# CH32V307VCT6 Template Project
+
+Create via GitHub
